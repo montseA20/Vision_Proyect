@@ -1,0 +1,4253 @@
+[
+    {
+        "gloss": "Battery",
+        "instances": [
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 23.996800426609784,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_01.mp4",
+                "variation_id": 0,
+                "video_id": "battery_01"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 23.998430291352012,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_02.mp4",
+                "variation_id": 0,
+                "video_id": "battery_02"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 24.001600106673777,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_03.mp4",
+                "variation_id": 0,
+                "video_id": "battery_03"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 23.994697304463102,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_04.mp4",
+                "variation_id": 0,
+                "video_id": "battery_04"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 23.99925679720886,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_05.mp4",
+                "variation_id": 0,
+                "video_id": "battery_05"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 24.003529930872187,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_06.mp4",
+                "variation_id": 0,
+                "video_id": "battery_06"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.659883791602848,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_07.mp4",
+                "variation_id": 0,
+                "video_id": "battery_07"
+            },
+            {
+                "bbox": [
+                    333,
+                    185,
+                    999,
+                    556
+                ],
+                "fps": 47.95539033457249,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_08.mov",
+                "variation_id": 0,
+                "video_id": "battery_08"
+            },
+            {
+                "bbox": [
+                    237,
+                    172,
+                    712,
+                    516
+                ],
+                "fps": 60.84507042253521,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_09.mov",
+                "variation_id": 0,
+                "video_id": "battery_09"
+            },
+            {
+                "bbox": [
+                    389,
+                    215,
+                    1167,
+                    646
+                ],
+                "fps": 39.72652033105434,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_10.mov",
+                "variation_id": 0,
+                "video_id": "battery_10"
+            },
+            {
+                "bbox": [
+                    333,
+                    185,
+                    999,
+                    556
+                ],
+                "fps": 47.95539033457249,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_11.mov",
+                "variation_id": 0,
+                "video_id": "battery_11"
+            },
+            {
+                "bbox": [
+                    237,
+                    172,
+                    712,
+                    516
+                ],
+                "fps": 60.84507042253521,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_12.mov",
+                "variation_id": 0,
+                "video_id": "battery_12"
+            },
+            {
+                "bbox": [
+                    389,
+                    215,
+                    1167,
+                    646
+                ],
+                "fps": 39.72652033105434,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_13.mov",
+                "variation_id": 0,
+                "video_id": "battery_13"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.654036243822077,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_14.mp4",
+                "variation_id": 0,
+                "video_id": "battery_14"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.747149231531978,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_15.mp4",
+                "variation_id": 0,
+                "video_id": "battery_15"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.709568146900395,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_16.mp4",
+                "variation_id": 0,
+                "video_id": "battery_16"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.647407616560194,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_17.mp4",
+                "variation_id": 0,
+                "video_id": "battery_17"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.66766509770361,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_18.mp4",
+                "variation_id": 0,
+                "video_id": "battery_18"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.554334075923293,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_19.mp4",
+                "variation_id": 0,
+                "video_id": "battery_19"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.6979006656426,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_20.mp4",
+                "variation_id": 0,
+                "video_id": "battery_20"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.577464788732396,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_21.mp4",
+                "variation_id": 0,
+                "video_id": "battery_21"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.610328082435153,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_22.mp4",
+                "variation_id": 0,
+                "video_id": "battery_22"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.69002725278621,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_23.mp4",
+                "variation_id": 0,
+                "video_id": "battery_23"
+            },
+            {
+                "bbox": [
+                    320,
+                    180,
+                    960,
+                    540
+                ],
+                "fps": 30.003000300030003,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/battery_24.mp4",
+                "variation_id": 0,
+                "video_id": "battery_24"
+            }
+        ]
+    },
+    {
+        "gloss": "Breakdown",
+        "instances": [
+            {
+                "bbox": [
+                    80,
+                    60,
+                    240,
+                    180
+                ],
+                "fps": 25.0,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/breakdown_01.mp4",
+                "variation_id": 0,
+                "video_id": "breakdown_01"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 24.017449412226025,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/breakdown_02.mp4",
+                "variation_id": 0,
+                "video_id": "breakdown_02"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 24.00118362001414,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/breakdown_03.mp4",
+                "variation_id": 0,
+                "video_id": "breakdown_03"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 24.051752736923586,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/breakdown_04.mp4",
+                "variation_id": 0,
+                "video_id": "breakdown_04"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 24.000256002730694,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/breakdown_05.mp4",
+                "variation_id": 0,
+                "video_id": "breakdown_05"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 23.987780918128234,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/breakdown_06.mp4",
+                "variation_id": 0,
+                "video_id": "breakdown_06"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 24.00935749317683,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/breakdown_07.mp4",
+                "variation_id": 0,
+                "video_id": "breakdown_07"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.67048871878166,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/breakdown_08.mp4",
+                "variation_id": 0,
+                "video_id": "breakdown_08"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.66427025895163,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/breakdown_09.mp4",
+                "variation_id": 0,
+                "video_id": "breakdown_09"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.593581480994345,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/breakdown_10.mp4",
+                "variation_id": 0,
+                "video_id": "breakdown_10"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.48822411050324,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/breakdown_11.mp4",
+                "variation_id": 0,
+                "video_id": "breakdown_11"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 28.987507764511008,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/breakdown_12.mp4",
+                "variation_id": 0,
+                "video_id": "breakdown_12"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.658922392486406,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/breakdown_13.mp4",
+                "variation_id": 0,
+                "video_id": "breakdown_13"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.62962962962963,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/breakdown_14.mp4",
+                "variation_id": 0,
+                "video_id": "breakdown_14"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.54459122947706,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/breakdown_15.mp4",
+                "variation_id": 0,
+                "video_id": "breakdown_15"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.586725109580463,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/breakdown_16.mp4",
+                "variation_id": 0,
+                "video_id": "breakdown_16"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.637060003647637,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/breakdown_17.mp4",
+                "variation_id": 0,
+                "video_id": "breakdown_17"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.583020285499625,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/breakdown_18.mp4",
+                "variation_id": 0,
+                "video_id": "breakdown_18"
+            },
+            {
+                "bbox": [
+                    320,
+                    180,
+                    960,
+                    540
+                ],
+                "fps": 30.003000300030003,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/breakdown_19.mp4",
+                "variation_id": 0,
+                "video_id": "breakdown_19"
+            }
+        ]
+    },
+    {
+        "gloss": "Counsel",
+        "instances": [
+            {
+                "bbox": [
+                    320,
+                    180,
+                    960,
+                    540
+                ],
+                "fps": 30.003000300030003,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Counsel_01.mp4",
+                "variation_id": 0,
+                "video_id": "Counsel_01"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.577376778287707,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Counsel_02.mp4",
+                "variation_id": 0,
+                "video_id": "Counsel_02"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.63881328516219,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Counsel_03.mp4",
+                "variation_id": 0,
+                "video_id": "Counsel_03"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.624560031286663,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Counsel_04.mp4",
+                "variation_id": 0,
+                "video_id": "Counsel_04"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.625813099761704,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Counsel_05.mp4",
+                "variation_id": 0,
+                "video_id": "Counsel_05"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.64521373242804,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Counsel_06.mp4",
+                "variation_id": 0,
+                "video_id": "Counsel_06"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.65705091127073,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Counsel_07.mp4",
+                "variation_id": 0,
+                "video_id": "Counsel_07"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.704486296126166,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Counsel_08.mp4",
+                "variation_id": 0,
+                "video_id": "Counsel_08"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.592608424029198,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Counsel_09.mp4",
+                "variation_id": 0,
+                "video_id": "Counsel_09"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.594053289224576,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Counsel_10.mp4",
+                "variation_id": 0,
+                "video_id": "Counsel_10"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 27.570001046962066,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Counsel_11.mp4",
+                "variation_id": 0,
+                "video_id": "Counsel_11"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.655491523997814,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Counsel_12.mp4",
+                "variation_id": 0,
+                "video_id": "Counsel_12"
+            }
+        ]
+    },
+    {
+        "gloss": "Cuba",
+        "instances": [
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.652431146348867,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Cuba_01.mp4",
+                "variation_id": 0,
+                "video_id": "Cuba_01"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.638239139909924,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Cuba_02.mp4",
+                "variation_id": 0,
+                "video_id": "Cuba_02"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.749562771577448,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Cuba_03.mp4",
+                "variation_id": 0,
+                "video_id": "Cuba_03"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.65365680450659,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Cuba_04.mp4",
+                "variation_id": 0,
+                "video_id": "Cuba_04"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.652518544819447,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Cuba_05.mp4",
+                "variation_id": 0,
+                "video_id": "Cuba_05"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.64671003870543,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Cuba_06.mp4",
+                "variation_id": 0,
+                "video_id": "Cuba_06"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.73673441549584,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Cuba_07.mp4",
+                "variation_id": 0,
+                "video_id": "Cuba_07"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.608259945338595,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Cuba_08.mp4",
+                "variation_id": 0,
+                "video_id": "Cuba_08"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.659234328986116,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Cuba_09.mp4",
+                "variation_id": 0,
+                "video_id": "Cuba_09"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.640804445058272,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Cuba_10.mp4",
+                "variation_id": 0,
+                "video_id": "Cuba_10"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.646012493676693,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Cuba_11.mp4",
+                "variation_id": 0,
+                "video_id": "Cuba_11"
+            },
+            {
+                "bbox": [
+                    320,
+                    180,
+                    960,
+                    540
+                ],
+                "fps": 30.003000300030003,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Cuba_12.mp4",
+                "variation_id": 0,
+                "video_id": "Cuba_12"
+            }
+        ]
+    },
+    {
+        "gloss": "Curtain",
+        "instances": [
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.583931586172074,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Curtain_01.mp4",
+                "variation_id": 0,
+                "video_id": "Curtain_01"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.715006078069425,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Curtain_02.mp4",
+                "variation_id": 0,
+                "video_id": "Curtain_02"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.527864979952135,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Curtain_03.mp4",
+                "variation_id": 0,
+                "video_id": "Curtain_03"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.680076385933024,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Curtain_04.mp4",
+                "variation_id": 0,
+                "video_id": "Curtain_04"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.625495099986047,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Curtain_05.mp4",
+                "variation_id": 0,
+                "video_id": "Curtain_05"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.572691225660677,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Curtain_06.mp4",
+                "variation_id": 0,
+                "video_id": "Curtain_06"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.382957884427032,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Curtain_07.mp4",
+                "variation_id": 0,
+                "video_id": "Curtain_07"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.59131111427726,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Curtain_08.mp4",
+                "variation_id": 0,
+                "video_id": "Curtain_08"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.55665024630542,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Curtain_09.mp4",
+                "variation_id": 0,
+                "video_id": "Curtain_09"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.558304876000673,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Curtain_10.mp4",
+                "variation_id": 0,
+                "video_id": "Curtain_10"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.647058823529413,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Curtain_11.mp4",
+                "variation_id": 0,
+                "video_id": "Curtain_11"
+            },
+            {
+                "bbox": [
+                    320,
+                    180,
+                    960,
+                    540
+                ],
+                "fps": 30.003000300030003,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Curtain_12.mp4",
+                "variation_id": 0,
+                "video_id": "Curtain_12"
+            }
+        ]
+    },
+    {
+        "gloss": "Devil",
+        "instances": [
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 29.378598136387915,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Devil_01.mp4",
+                "variation_id": 0,
+                "video_id": "Devil_01"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 29.37824083736013,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Devil_02.mp4",
+                "variation_id": 0,
+                "video_id": "Devil_02"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 29.380388590615762,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Devil_03.mp4",
+                "variation_id": 0,
+                "video_id": "Devil_03"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.59622295821295,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Devil_04.mp4",
+                "variation_id": 0,
+                "video_id": "Devil_04"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.70984312092184,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Devil_05.mp4",
+                "variation_id": 0,
+                "video_id": "Devil_05"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.724225243573514,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Devil_06.mp4",
+                "variation_id": 0,
+                "video_id": "Devil_06"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.725417751280546,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Devil_07.mp4",
+                "variation_id": 0,
+                "video_id": "Devil_07"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 26.971048798252003,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Devil_08.mp4",
+                "variation_id": 0,
+                "video_id": "Devil_08"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.5955277869122,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Devil_09.mp4",
+                "variation_id": 0,
+                "video_id": "Devil_09"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.689803408142016,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Devil_10.mp4",
+                "variation_id": 0,
+                "video_id": "Devil_10"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.67539285187467,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Devil_11.mp4",
+                "variation_id": 0,
+                "video_id": "Devil_11"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.682817888844916,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Devil_12.mp4",
+                "variation_id": 0,
+                "video_id": "Devil_12"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.639100366130062,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Devil_13.mp4",
+                "variation_id": 0,
+                "video_id": "Devil_13"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.527864979952135,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Devil_14.mp4",
+                "variation_id": 0,
+                "video_id": "Devil_14"
+            },
+            {
+                "bbox": [
+                    320,
+                    180,
+                    960,
+                    540
+                ],
+                "fps": 30.003000300030003,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Devil_15.mp4",
+                "variation_id": 0,
+                "video_id": "Devil_15"
+            }
+        ]
+    },
+    {
+        "gloss": "Grandma",
+        "instances": [
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.53892120690826,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grandma_01.mp4",
+                "variation_id": 0,
+                "video_id": "Grandma_01"
+            },
+            {
+                "bbox": [
+                    480,
+                    272,
+                    1440,
+                    816
+                ],
+                "fps": 59.97675319643549,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grandma_02.mov",
+                "variation_id": 0,
+                "video_id": "Grandma_02"
+            },
+            {
+                "bbox": [
+                    480,
+                    267,
+                    1440,
+                    801
+                ],
+                "fps": 40.449438202247194,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grandma_03.mov",
+                "variation_id": 0,
+                "video_id": "Grandma_03"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.671659660858136,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grandma_04.mp4",
+                "variation_id": 0,
+                "video_id": "Grandma_04"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.62628053351101,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grandma_05.mp4",
+                "variation_id": 0,
+                "video_id": "Grandma_05"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.646012493676693,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grandma_06.mp4",
+                "variation_id": 0,
+                "video_id": "Grandma_06"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.611083693441024,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grandma_07.mp4",
+                "variation_id": 0,
+                "video_id": "Grandma_07"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.661854854656912,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grandma_08.mp4",
+                "variation_id": 0,
+                "video_id": "Grandma_08"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.64973776454155,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grandma_09.mp4",
+                "variation_id": 0,
+                "video_id": "Grandma_09"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.608611171082256,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grandma_10.mp4",
+                "variation_id": 0,
+                "video_id": "Grandma_10"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.673590504451038,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grandma_11.mp4",
+                "variation_id": 0,
+                "video_id": "Grandma_11"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.670115166894398,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grandma_12.mp4",
+                "variation_id": 0,
+                "video_id": "Grandma_12"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.691135075384636,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grandma_13.mp4",
+                "variation_id": 0,
+                "video_id": "Grandma_13"
+            },
+            {
+                "bbox": [
+                    320,
+                    180,
+                    960,
+                    540
+                ],
+                "fps": 30.003000300030003,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grandma_14.mp4",
+                "variation_id": 0,
+                "video_id": "Grandma_14"
+            }
+        ]
+    },
+    {
+        "gloss": "Grey",
+        "instances": [
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 23.61859774099541,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grey_01.mp4",
+                "variation_id": 0,
+                "video_id": "Grey_01"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 23.6464535645431,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grey_02.mp4",
+                "variation_id": 0,
+                "video_id": "Grey_02"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 23.63759397102309,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grey_03.mp4",
+                "variation_id": 0,
+                "video_id": "Grey_03"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.60817236826927,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grey_04.mp4",
+                "variation_id": 0,
+                "video_id": "Grey_04"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.668511439493354,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grey_05.mp4",
+                "variation_id": 0,
+                "video_id": "Grey_05"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.636353927484382,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grey_06.mp4",
+                "variation_id": 0,
+                "video_id": "Grey_06"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.155471346786772,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grey_07.mp4",
+                "variation_id": 0,
+                "video_id": "Grey_07"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.58229795290498,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grey_08.mp4",
+                "variation_id": 0,
+                "video_id": "Grey_08"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.580014790007397,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grey_09.mp4",
+                "variation_id": 0,
+                "video_id": "Grey_09"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.58143649667324,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grey_10.mp4",
+                "variation_id": 0,
+                "video_id": "Grey_10"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.581271994695772,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grey_11.mp4",
+                "variation_id": 0,
+                "video_id": "Grey_11"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.582780781393453,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grey_12.mp4",
+                "variation_id": 0,
+                "video_id": "Grey_12"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.620853080568722,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grey_13.mp4",
+                "variation_id": 0,
+                "video_id": "Grey_13"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.63661768763183,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grey_14.mp4",
+                "variation_id": 0,
+                "video_id": "Grey_14"
+            },
+            {
+                "bbox": [
+                    320,
+                    180,
+                    960,
+                    540
+                ],
+                "fps": 16.44736842105263,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Grey_15.mp4",
+                "variation_id": 0,
+                "video_id": "Grey_15"
+            }
+        ]
+    },
+    {
+        "gloss": "LittleBit",
+        "instances": [
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 29.37772634202795,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Little_bit_01.mp4",
+                "variation_id": 0,
+                "video_id": "Little_bit_01"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 29.37985897667691,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Little_bit_02.mp4",
+                "variation_id": 0,
+                "video_id": "Little_bit_02"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.607180324047093,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Little_bit_03.mp4",
+                "variation_id": 0,
+                "video_id": "Little_bit_03"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.65365680450659,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Little_bit_04.mp4",
+                "variation_id": 0,
+                "video_id": "Little_bit_04"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.6085986615291,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Little_bit_05.mp4",
+                "variation_id": 0,
+                "video_id": "Little_bit_05"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.550607738913875,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Little_bit_06.mp4",
+                "variation_id": 0,
+                "video_id": "Little_bit_06"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.702970297029704,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Little_bit_07.mp4",
+                "variation_id": 0,
+                "video_id": "Little_bit_07"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.45797329143755,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Little_bit_08.mp4",
+                "variation_id": 0,
+                "video_id": "Little_bit_08"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.614473400818436,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Little_bit_09.mp4",
+                "variation_id": 0,
+                "video_id": "Little_bit_09"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.42294990092272,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Little_bit_10.mp4",
+                "variation_id": 0,
+                "video_id": "Little_bit_10"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.5219711593051,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Little_bit_11.mp4",
+                "variation_id": 0,
+                "video_id": "Little_bit_11"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.7978006385243,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Little_bit_12.mp4",
+                "variation_id": 0,
+                "video_id": "Little_bit_12"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.6331891718725,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Little_bit_13.mp4",
+                "variation_id": 0,
+                "video_id": "Little_bit_13"
+            },
+            {
+                "bbox": [
+                    320,
+                    180,
+                    960,
+                    540
+                ],
+                "fps": 16.44736842105263,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Little_bit_14.mp4",
+                "variation_id": 0,
+                "video_id": "Little_bit_14"
+            }
+        ]
+    },
+    {
+        "gloss": "Meaning",
+        "instances": [
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 23.621101517355505,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Meaning_01.mp4",
+                "variation_id": 0,
+                "video_id": "Meaning_01"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.580891297135906,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Meaning_02.mp4",
+                "variation_id": 0,
+                "video_id": "Meaning_02"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.67192023158572,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Meaning_03.mp4",
+                "variation_id": 0,
+                "video_id": "Meaning_03"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.687889922467278,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Meaning_04.mp4",
+                "variation_id": 0,
+                "video_id": "Meaning_04"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.749509133099306,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Meaning_05.mp4",
+                "variation_id": 0,
+                "video_id": "Meaning_05"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.542264680581336,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Meaning_06.mp4",
+                "variation_id": 0,
+                "video_id": "Meaning_06"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.575679536446494,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Meaning_07.mp4",
+                "variation_id": 0,
+                "video_id": "Meaning_07"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.706002449979582,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Meaning_08.mp4",
+                "variation_id": 0,
+                "video_id": "Meaning_08"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.490131153478025,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Meaning_09.mp4",
+                "variation_id": 0,
+                "video_id": "Meaning_09"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.623401509522505,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Meaning_10.mp4",
+                "variation_id": 0,
+                "video_id": "Meaning_10"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.53992416954332,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Meaning_11.mp4",
+                "variation_id": 0,
+                "video_id": "Meaning_11"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.736463997963007,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Meaning_12.mp4",
+                "variation_id": 0,
+                "video_id": "Meaning_12"
+            },
+            {
+                "bbox": [
+                    320,
+                    180,
+                    960,
+                    540
+                ],
+                "fps": 16.44736842105263,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Meaning_13.mp4",
+                "variation_id": 0,
+                "video_id": "Meaning_13"
+            }
+        ]
+    },
+    {
+        "gloss": "Parents",
+        "instances": [
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.607053445085448,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Parents_01.mp4",
+                "variation_id": 0,
+                "video_id": "Parents_01"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.71164467920312,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Parents_02.mp4",
+                "variation_id": 0,
+                "video_id": "Parents_02"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.762553692519024,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Parents_03.mp4",
+                "variation_id": 0,
+                "video_id": "Parents_03"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.7622292236746,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Parents_04.mp4",
+                "variation_id": 0,
+                "video_id": "Parents_04"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.628043121296496,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Parents_05.mp4",
+                "variation_id": 0,
+                "video_id": "Parents_05"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.663235037515268,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Parents_06.mp4",
+                "variation_id": 0,
+                "video_id": "Parents_06"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.53491003734299,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Parents_07.mp4",
+                "variation_id": 0,
+                "video_id": "Parents_07"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.625495099986047,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Parents_08.mp4",
+                "variation_id": 0,
+                "video_id": "Parents_08"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.628838736370067,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Parents_09.mp4",
+                "variation_id": 0,
+                "video_id": "Parents_09"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.6985765165049,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Parents_10.mp4",
+                "variation_id": 0,
+                "video_id": "Parents_10"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.68796709583647,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Parents_11.mp4",
+                "variation_id": 0,
+                "video_id": "Parents_11"
+            },
+            {
+                "bbox": [
+                    320,
+                    180,
+                    960,
+                    540
+                ],
+                "fps": 16.44736842105263,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Parents_12.mp4",
+                "variation_id": 0,
+                "video_id": "Parents_12"
+            }
+        ]
+    },
+    {
+        "gloss": "Ski",
+        "instances": [
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.681877298949164,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Ski_01.mp4",
+                "variation_id": 0,
+                "video_id": "Ski_01"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.489368306689432,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Ski_02.mp4",
+                "variation_id": 0,
+                "video_id": "Ski_02"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.53825260298778,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Ski_03.mp4",
+                "variation_id": 0,
+                "video_id": "Ski_03"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.573673892094856,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Ski_04.mp4",
+                "variation_id": 0,
+                "video_id": "Ski_04"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.632398088576846,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Ski_05.mp4",
+                "variation_id": 0,
+                "video_id": "Ski_05"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 28.990842575123096,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Ski_06.mp4",
+                "variation_id": 0,
+                "video_id": "Ski_06"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.680417826657155,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Ski_07.mp4",
+                "variation_id": 0,
+                "video_id": "Ski_07"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.552227639437884,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Ski_08.mp4",
+                "variation_id": 0,
+                "video_id": "Ski_08"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.7156750185723,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Ski_09.mp4",
+                "variation_id": 0,
+                "video_id": "Ski_09"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 28.688002040035702,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Ski_10.mp4",
+                "variation_id": 0,
+                "video_id": "Ski_10"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.782012216140195,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Ski_11.mp4",
+                "variation_id": 0,
+                "video_id": "Ski_11"
+            },
+            {
+                "bbox": [
+                    320,
+                    180,
+                    960,
+                    540
+                ],
+                "fps": 16.44736842105263,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Ski_12.mp4",
+                "variation_id": 0,
+                "video_id": "Ski_12"
+            }
+        ]
+    },
+    {
+        "gloss": "Someone",
+        "instances": [
+            {
+                "bbox": [
+                    80,
+                    60,
+                    240,
+                    180
+                ],
+                "fps": 25.0,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_01.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_01"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 23.976023976023978,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_02.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_02"
+            },
+            {
+                "bbox": [
+                    72,
+                    48,
+                    216,
+                    144
+                ],
+                "fps": 29.97,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_03.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_03"
+            },
+            {
+                "bbox": [
+                    180,
+                    100,
+                    540,
+                    300
+                ],
+                "fps": 30.250376171739923,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_04.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_04"
+            },
+            {
+                "bbox": [
+                    80,
+                    60,
+                    240,
+                    180
+                ],
+                "fps": 25.0,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_05.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_05"
+            },
+            {
+                "bbox": [
+                    184,
+                    103,
+                    552,
+                    310
+                ],
+                "fps": 29.97,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_06.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_06"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 23.976108018676126,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_07.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_07"
+            },
+            {
+                "bbox": [
+                    160,
+                    120,
+                    480,
+                    360
+                ],
+                "fps": 30.002655102221436,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_08.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_08"
+            },
+            {
+                "bbox": [
+                    72,
+                    48,
+                    216,
+                    144
+                ],
+                "fps": 29.97,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_09.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_09"
+            },
+            {
+                "bbox": [
+                    180,
+                    100,
+                    540,
+                    300
+                ],
+                "fps": 30.34975126267421,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_10.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_10"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 29.37569778721379,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_11.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_11"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 29.375462848679337,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_12.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_12"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 29.378436227808788,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_13.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_13"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.658335969629864,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_14.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_14"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.67848309975268,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_15.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_15"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 28.67318260948718,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_16.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_16"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.580517659059034,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_17.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_17"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.590257133854816,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_18.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_18"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.61135101789019,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_19.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_19"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 28.46334881772367,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_20.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_20"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.62839566402113,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_21.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_21"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.652082235108065,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_22.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_22"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.652473016249555,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_23.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_23"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.635562675210252,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_24.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_24"
+            },
+            {
+                "bbox": [
+                    320,
+                    180,
+                    960,
+                    540
+                ],
+                "fps": 16.44736842105263,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Someone_25.mp4",
+                "variation_id": 0,
+                "video_id": "Someone_25"
+            }
+        ]
+    },
+    {
+        "gloss": "TV",
+        "instances": [
+            {
+                "bbox": [
+                    80,
+                    45,
+                    240,
+                    135
+                ],
+                "fps": 24.0,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/TV_01.mp4",
+                "variation_id": 0,
+                "video_id": "TV_01"
+            },
+            {
+                "bbox": [
+                    160,
+                    120,
+                    480,
+                    360
+                ],
+                "fps": 30.001973814066716,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/TV_02.mp4",
+                "variation_id": 0,
+                "video_id": "TV_02"
+            },
+            {
+                "bbox": [
+                    72,
+                    48,
+                    216,
+                    144
+                ],
+                "fps": 29.97,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/TV_03.mp4",
+                "variation_id": 0,
+                "video_id": "TV_03"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 29.379905924947696,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/TV_04.mp4",
+                "variation_id": 0,
+                "video_id": "TV_04"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 29.37343039704994,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/TV_05.mp4",
+                "variation_id": 0,
+                "video_id": "TV_05"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 29.378737628287155,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/TV_06.mp4",
+                "variation_id": 0,
+                "video_id": "TV_06"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 29.377922491247826,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/TV_07.mp4",
+                "variation_id": 0,
+                "video_id": "TV_07"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.591923718596636,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/TV_08.mp4",
+                "variation_id": 0,
+                "video_id": "TV_08"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.530540131246845,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/TV_09.mp4",
+                "variation_id": 0,
+                "video_id": "TV_09"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.636159153773672,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/TV_10.mp4",
+                "variation_id": 0,
+                "video_id": "TV_10"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.71643469939392,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/TV_11.mp4",
+                "variation_id": 0,
+                "video_id": "TV_11"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.637510449122274,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/TV_12.mp4",
+                "variation_id": 0,
+                "video_id": "TV_12"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 28.430325680726106,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/TV_13.mp4",
+                "variation_id": 0,
+                "video_id": "TV_13"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.7387942571084,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/TV_14.mp4",
+                "variation_id": 0,
+                "video_id": "TV_14"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.570124317730986,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/TV_15.mp4",
+                "variation_id": 0,
+                "video_id": "TV_15"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.69840755090546,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/TV_16.mp4",
+                "variation_id": 0,
+                "video_id": "TV_16"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.612201849748498,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/TV_17.mp4",
+                "variation_id": 0,
+                "video_id": "TV_17"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.653254609433688,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/TV_18.mp4",
+                "variation_id": 0,
+                "video_id": "TV_18"
+            },
+            {
+                "bbox": [
+                    320,
+                    180,
+                    960,
+                    540
+                ],
+                "fps": 16.44736842105263,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/TV_19.mp4",
+                "variation_id": 0,
+                "video_id": "TV_19"
+            }
+        ]
+    },
+    {
+        "gloss": "Value",
+        "instances": [
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 23.629188810743724,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Value_01.mp4",
+                "variation_id": 0,
+                "video_id": "Value_01"
+            },
+            {
+                "bbox": [
+                    212,
+                    120,
+                    636,
+                    360
+                ],
+                "fps": 23.636979963536753,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Value_02.mp4",
+                "variation_id": 0,
+                "video_id": "Value_02"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.697560048466418,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Value_03.mp4",
+                "variation_id": 0,
+                "video_id": "Value_03"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.745305818925452,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Value_04.mp4",
+                "variation_id": 0,
+                "video_id": "Value_04"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.572691225660677,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Value_05.mp4",
+                "variation_id": 0,
+                "video_id": "Value_05"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.590482337039248,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Value_06.mp4",
+                "variation_id": 0,
+                "video_id": "Value_06"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.647407616560194,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Value_07.mp4",
+                "variation_id": 0,
+                "video_id": "Value_07"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.633907268665563,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "val",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Value_08.mp4",
+                "variation_id": 0,
+                "video_id": "Value_08"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.026355089077256,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Value_09.mp4",
+                "variation_id": 0,
+                "video_id": "Value_09"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 27.043498133617735,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Value_10.mp4",
+                "variation_id": 0,
+                "video_id": "Value_10"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.500913949883152,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Value_11.mp4",
+                "variation_id": 0,
+                "video_id": "Value_11"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.561454301648737,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Value_12.mp4",
+                "variation_id": 0,
+                "video_id": "Value_12"
+            },
+            {
+                "bbox": [
+                    480,
+                    270,
+                    1440,
+                    810
+                ],
+                "fps": 29.691516709511568,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "test",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Value_13.mp4",
+                "variation_id": 0,
+                "video_id": "Value_13"
+            },
+            {
+                "bbox": [
+                    320,
+                    180,
+                    960,
+                    540
+                ],
+                "fps": 16.44736842105263,
+                "frame_end": -1,
+                "frame_start": 1,
+                "instance_id": 1,
+                "signer_id": 1,
+                "source": "local",
+                "split": "train",
+                "path": "D:/Descargas Personal/hand-vision-master/hand-vision-master/training-videos/Value_14.mp4",
+                "variation_id": 0,
+                "video_id": "Value_14"
+            }
+        ]
+    }
+]
